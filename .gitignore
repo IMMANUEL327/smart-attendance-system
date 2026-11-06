@@ -1,0 +1,14 @@
+# Python virtual environments
+.practice_env/
+.venv/
+
+# Python cache files
+pycache/
+*.py[cod]
+
+# Database files
+database/*.db
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
